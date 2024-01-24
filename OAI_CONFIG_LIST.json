@@ -1,0 +1,12 @@
+[
+    {
+        "model": "gpt-4-1106-preview",
+        "base_url": "http://127.0.0.1:8000",
+        "api_key": "Sample-AIzaSyDs4qdD9UIHfw0YIW6fQNWpP3sL5tyrCs4w"
+    },
+    {
+        "model": "gpt-4-vision",
+        "base_url": "http://127.0.0.1:8000/",
+        "api_key": "Sample-AIzaSyDs4qdD9UIHfw0YIW6fQNWpP3sL5tyrCs4w"
+    }
+]
